@@ -1,0 +1,3 @@
+Leonardo - Python | 
+Django | 
+Ruby on Rails
